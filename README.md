@@ -1,1 +1,1 @@
-This is my journey of learning C, completing the exercises from *The C Programming Language* second edition.
+This is my journey of learning C through completing the exercises from *The C Programming Language*.
